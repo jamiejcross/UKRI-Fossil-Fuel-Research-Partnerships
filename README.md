@@ -1,0 +1,1 @@
+A Python search tool and interactive D3.js dashboard that identifies and visualises UKRI-funded research projects where fossil fuel companies are listed as project partners, collaborators, or participants.
